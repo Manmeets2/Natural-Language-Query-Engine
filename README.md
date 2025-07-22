@@ -17,19 +17,15 @@
 
  🌐 n8n Workflow
 
-![n8n Workflow](images/n8n_workflow.png)
-
- 🧠 Natural Language Query (from User)
-
-![User Query](images/user_input.png)
+![n8n Workflow](images/N8n_proj1.jpg)
 
  📤 AI to SQL using Quadratic
 
-![Quadratic Query Result](images/quadratic_response.png)
+![Quadratic Query Result](images/quadratic_proj1.jpg)
 
  🗃️ Supabase Data Response
 
-![Supabase Output](images/supabase_result.png)
+![Supabase Output](images/supaBase_proj1.jpg)
 
 
 
