@@ -13,7 +13,6 @@
 
  🖼️ Preview
 
-> Replace the placeholders below with actual screenshots by uploading images to your repo under `/images/`.
 
  🌐 n8n Workflow
 
